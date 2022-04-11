@@ -14,8 +14,7 @@ Please read our:
 
 ## The Mission
 
-BcnEng's mission is to let Barcelona's tech hub to become one of the best tech
-communities around the globe.
+BcnEng's is a non-profit organization whose mission is to let Barcelona's tech hub become one of the best tech communities around the globe.
 
 How?
 
@@ -28,28 +27,32 @@ We will do that keeping our values:
 - Transparency
 - Community-driven
 - Diversity
-- Open source
-
-We are working on becoming a non-profit in order to have more resources for
-reaching those goals.
+- Open-source
 
 ## The History
 
 BcnEng's Slack started as a solution for a communication problem between two
 ex-colleagues ([Sergio Moya](https://www.linkedin.com/in/smoya) and [Gonzalo
 Serrano](https://gon.cat)) that worked in the team in a Barcelona startup for
-years but parted ways for new jobs in November, 2016. They wanted to keep
-beeing in touch as a group and found Slack was the solution.
+years but parted ways for new jobs in November 2016. They wanted to keep
+being in touch as a group and found Slack was the solution.
 
-Months passed and the community kept growing slowly but steady, till today with
-more than 4700 registered users and around 1100 weekly active users.
+Months passed, and the community kept growing slowly but steady, till today, with
+more than 7K registered users and around 1.5K weekly active users.
 
 ## The team
 
 #### The staff
 
-Luckily, more people organically joined the comunity to help organizing and
-making sure everything run smooth. Here they are:
+Luckily, more people organically joined the community to help organize and
+ensure everything ran smoothly. Here they are:
+
+[{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}](https://bcneng.slack.com/team/U2Y6QQHST)
+[{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
+[{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
+[{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
+[{{< figure src="/images/team/cristina.png" title="@cristina_verdi" class="avatar" >}}](https://bcneng.slack.com/team/UNNPZ40BG)
+
 
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
