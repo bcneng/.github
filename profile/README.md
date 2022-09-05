@@ -85,3 +85,11 @@ Lots of people have and are helping too. A special shout-out to (alphabetically-
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
 - [Antonio Santiago](https://www.linkedin.com/in/acanimal/) ([@acanimal](https://bcneng.slack.com/team/UB82Y3A3W))
 - [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) ([@Ivan Vihe](https://bcneng.slack.com/team/UAG4H8GMD))
+
+## Supported by
+
+<p>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
