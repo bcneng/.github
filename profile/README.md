@@ -47,18 +47,12 @@ more than 7K registered users and around 1.5K weekly active users.
 Luckily, more people organically joined the community to help organize and
 ensure everything ran smoothly. Here they are:
 
-[{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}](https://bcneng.slack.com/team/U2Y6QQHST)
-[{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
-[{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
-[{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
-[{{< figure src="/images/team/cristina.png" title="@cristina_verdi" class="avatar" >}}](https://bcneng.slack.com/team/UNNPZ40BG)
-
-
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
 - [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
 - [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
+- [Ronny López](https://www.linkedin.com/in/ronnylt/) ([@ronnylt](https://bcneng.slack.com/team/U2XDM2L0G)), Technology Advisor and Software Engineer
 
 #### Distinguished members
 
@@ -93,3 +87,7 @@ Lots of people have and are helping too. A special shout-out to (alphabetically-
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+[![](https://user-images.githubusercontent.com/1083296/188462167-e2c4085a-5441-4093-b29c-2d985ddeaf0d.png)](https://slack.com/#gh-light-mode-only)
+[![](https://user-images.githubusercontent.com/1083296/188462182-7b91c71f-73fb-4a8c-86b7-5e2867bd8fb4.png)](https://slack.com/#gh-dark-mode-only)
+
